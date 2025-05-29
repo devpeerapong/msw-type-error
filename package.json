@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "msw": "^2.8.4",
+    "msw": "https://pkg.pr.new/msw@2516",
     "next": "latest",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
